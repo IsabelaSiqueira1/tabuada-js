@@ -1,0 +1,1 @@
+Tabuada em javascript OneBitCode
